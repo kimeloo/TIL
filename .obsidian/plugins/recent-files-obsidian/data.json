@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "251001 - Bash Shell Script 기본 문법",
+      "path": "251001 - Bash Shell Script 기본 문법.md"
+    },
+    {
+      "basename": "algorithmic-analysis-template",
+      "path": "algorithmic-analysis-template.md"
+    },
+    {
       "basename": "250930 - Chain of Responsibility 패턴",
       "path": "250930 - Chain of Responsibility 패턴.md"
     },
@@ -91,10 +99,6 @@
     {
       "basename": "250902 - DDD vs TDD 비교",
       "path": "250902 - DDD vs TDD 비교.md"
-    },
-    {
-      "basename": "algorithmic-analysis-template",
-      "path": "algorithmic-analysis-template.md"
     },
     {
       "basename": "250827 - Spring Custom Annotation",
@@ -195,10 +199,6 @@
     {
       "basename": "RepositorySupport (Class)",
       "path": "Study/Java/JPA/RepositorySupport (Class).md"
-    },
-    {
-      "basename": "JPA 설계",
-      "path": "Study/Java/JPA/JPA 설계.md"
     }
   ],
   "omittedPaths": [],

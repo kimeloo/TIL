@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "250930 - Chain of Responsibility 패턴.md",
-                "mode": "source",
+                "file": "251001 - Bash Shell Script 기본 문법.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "250930 - Chain of Responsibility 패턴"
+              "title": "251001 - Bash Shell Script 기본 문법"
             }
           }
         ]
@@ -245,7 +245,9 @@
   },
   "active": "5b5f9793b48576e6",
   "lastOpenFiles": [
+    "algorithmic-analysis-template.md",
     "250930 - Chain of Responsibility 패턴.md",
+    "251001 - Bash Shell Script 기본 문법.md",
     "250930 - Decorator 디자인 패턴.md",
     "250917 - NestJS Custom Decorator 정리.md",
     "250926 - 빌더 패턴 (Builder Pattern).md",
@@ -270,8 +272,6 @@
     "250903 - Spring Boot에서 Filter와 Interceptor의 차이점.md",
     "250902 - DDD vs TDD 비교.md",
     "250901 - Git Push 오류 해결.md",
-    "algorithmic-analysis-template.md",
-    "250827 - Spring Custom Annotation.md",
     "Projects/SSAFY-공통/Main/db-schema_v03.sql",
     "Study/Java/JPA",
     "Study/Java",
