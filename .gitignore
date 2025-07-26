@@ -164,7 +164,7 @@ Temporary Items
 
 ### Obsidian ###
 # config dir
-.obsidian/
+# .obsidian/
 
 ### VisualStudioCode ###
 .vscode/*

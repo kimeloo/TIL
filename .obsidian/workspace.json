@@ -1,0 +1,227 @@
+{
+  "main": {
+    "id": "44ce6b714020b210",
+    "type": "split",
+    "children": [
+      {
+        "id": "52592e35dd6a6b8c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "008d360b907fdfb8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "250726 - Repository (Interface).md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "250726 - Repository (Interface)"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "81e11d9ca3ec0d6e",
+    "type": "split",
+    "children": [
+      {
+        "id": "791ed4a59774cf4f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a2a92a3b2da6821b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
+            }
+          },
+          {
+            "id": "81f064beb611196a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "검색"
+            }
+          },
+          {
+            "id": "d7e403008cbfb987",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "북마크"
+            }
+          },
+          {
+            "id": "fa28cedf6aef82c5",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "플러그인이 더 이상 활성화돼있지 않음"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 212.50247192382812
+  },
+  "right": {
+    "id": "9fada517e8467938",
+    "type": "split",
+    "children": [
+      {
+        "id": "0aa532e434eb5692",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dd7a3c4b23eced5b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Projects/SSAFY-공통/Sub/AI - 가격예측/00. CLAUDE.md.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "00. CLAUDE.md 의 백링크"
+            }
+          },
+          {
+            "id": "1725dd9347912c1b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Projects/SSAFY-공통/Sub/AI - 가격예측/00. CLAUDE.md.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "00. CLAUDE.md 의 나가는 링크"
+            }
+          },
+          {
+            "id": "79172ca01ba1f6b0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "태그"
+            }
+          },
+          {
+            "id": "eebc71df82f5a55a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Projects/SSAFY-공통/Sub/AI - 가격예측/00. CLAUDE.md.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "00. CLAUDE.md 의 개요"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:빠른 전환기 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-kanban:새 보드 만들기": false,
+      "omnisearch:Omnisearch": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "008d360b907fdfb8",
+  "lastOpenFiles": [
+    "Study/Java/JPA/JPA 설계.md",
+    "Study/Java/JPA/Repository (Interface).md",
+    "Study/Java/JPA/Entity.md",
+    "Projects/SSAFY-공통/Main/ai-ml-implementation.md",
+    "Projects/SSAFY-공통/Main/api-specifications.md",
+    "Projects/SSAFY-공통/Main/db-schema_v03.sql",
+    "Study/Java/JPA/발생 가능한 문제.md",
+    "Study/Java/JPA/RepositorySupport (Class).md",
+    "Study/Java/JPA/MyBatis vs JPA 주요 차이점.md",
+    "Study/Java/JPA",
+    "Study/Java",
+    "Study",
+    "Projects/SSAFY-공통/Main/coding-conventions.md",
+    "Projects/SSAFY-공통/Sub/AI - 가격예측/00. CLAUDE.md.md",
+    "Projects/SSAFY-공통/Sub/AI - SSAFY GMS/GMS 기본 사용.md",
+    "Projects/Claude/gemini-with-claude.zip",
+    "Projects/SSAFY-공통/Sub/AI - 가격예측",
+    "Projects/SSAFY-공통/Sub/AI - SSAFY GMS",
+    "Projects/Claude/Claude Desktop MCP Server.md",
+    "Projects/SSAFY-공통/Main/CLAUDE.md",
+    "Projects/Claude",
+    "Projects/SSAFY-공통/Main/development-workflow.md",
+    "Projects/SSAFY-공통/Main/database-design.md",
+    "Projects/SSAFY-공통/Main/technical-architecture.md",
+    "Projects/SSAFY-공통/Main/project-overview.md",
+    "Projects/SSAFY-공통/Main/feature-specifications.md",
+    "Projects/SSAFY-공통/Sub/AI - 신선도탐지API/improving.zip",
+    "Projects/SSAFY-공통/Sub/DummyData/dummyData.zip",
+    "환영합니다!.md"
+  ]
+}
