@@ -54,9 +54,33 @@
               "icon": "lucide-file",
               "title": "250728 Java Style Guide"
             }
+          },
+          {
+            "id": "17da13e0f1ca83ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "250729 - RepositorySupport (Class).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "250729 - RepositorySupport (Class)"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -217,10 +241,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "391d08774dd98636",
+  "active": "17da13e0f1ca83ba",
   "lastOpenFiles": [
-    "250726 - Repository (Interface).md",
     "250728 Java Style Guide.md",
+    "250729 - RepositorySupport (Class).md",
+    "250726 - Repository (Interface).md",
     "Study/Java/JPA/JPA 설계.md",
     "Study/Java/JPA/Repository (Interface).md",
     "Study/Java/JPA/Entity.md",
