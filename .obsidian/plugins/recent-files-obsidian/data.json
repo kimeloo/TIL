@@ -1,20 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "250807 - Spring Self Injection",
+      "path": "250807 - Spring Self Injection.md"
+    },
+    {
       "basename": "250806 - 싱글톤인 스프링이 다중 요청 처리하는 방법",
       "path": "250806 - 싱글톤인 스프링이 다중 요청 처리하는 방법.md"
     },
     {
-      "basename": "README",
-      "path": "README.md"
+      "basename": "250803 - AWS S3 주의사항",
+      "path": "250803 - AWS S3 주의사항.md"
     },
     {
       "basename": "250804 - 무중단 배포 (1)",
       "path": "250804 - 무중단 배포 (1).md"
     },
     {
-      "basename": "250803 - AWS S3 주의사항",
-      "path": "250803 - AWS S3 주의사항.md"
+      "basename": "README",
+      "path": "README.md"
     },
     {
       "basename": "250801 - Git 이메일, 이름 변경",

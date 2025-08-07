@@ -181,7 +181,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "250806 - 싱글톤인 스프링이 다중 요청 처리하는 방법.md",
+                "file": "250807 - Spring Self Injection.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -196,7 +196,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "250806 - 싱글톤인 스프링이 다중 요청 처리하는 방법"
+              "title": "250807 - Spring Self Injection"
             }
           }
         ],
@@ -363,10 +363,11 @@
   },
   "active": "88fdf8f5b2e6ce04",
   "lastOpenFiles": [
-    "README.md",
     "250806 - 싱글톤인 스프링이 다중 요청 처리하는 방법.md",
-    "250804 - 무중단 배포 (1).md",
+    "250807 - Spring Self Injection.md",
     "250803 - AWS S3 주의사항.md",
+    "250804 - 무중단 배포 (1).md",
+    "README.md",
     "250801 - Git 이메일, 이름 변경.md",
     "250730 - JPA 발생 가능한 문제.md",
     "250729 - RepositorySupport (Class).md",
@@ -396,7 +397,6 @@
     "Projects/SSAFY-공통/Main/development-workflow.md",
     "Projects/SSAFY-공통/Main/database-design.md",
     "Projects/SSAFY-공통/Main/technical-architecture.md",
-    "Projects/SSAFY-공통/Main/project-overview.md",
     "Projects/SSAFY-공통/Sub/AI - 신선도탐지API/improving.zip",
     "Projects/SSAFY-공통/Sub/DummyData/dummyData.zip"
   ]
