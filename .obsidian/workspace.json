@@ -11,10 +11,24 @@
             "id": "77319f56e6574e3b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "250811 - 백준 15723번.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "새 탭"
+              "title": "250811 - 백준 15723번"
             }
           }
         ]
@@ -180,6 +194,7 @@
   },
   "active": "77319f56e6574e3b",
   "lastOpenFiles": [
+    "250811 - 백준 15723번.md",
     "250726 - Repository (Interface).md",
     "250728 Java Style Guide.md",
     "250729 - RepositorySupport (Class).md",
@@ -213,7 +228,6 @@
     "Projects/SSAFY-공통/Main/CLAUDE.md",
     "Projects/Claude",
     "Projects/SSAFY-공통/Main/development-workflow.md",
-    "Projects/SSAFY-공통/Main/database-design.md",
     "Projects/SSAFY-공통/Sub/AI - 신선도탐지API/improving.zip",
     "Projects/SSAFY-공통/Sub/DummyData/dummyData.zip"
   ]
