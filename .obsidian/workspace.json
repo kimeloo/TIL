@@ -4,31 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "b850ad28aadc54a2",
+        "id": "7c380b6d7567cc7b",
         "type": "tabs",
         "children": [
           {
-            "id": "77319f56e6574e3b",
+            "id": "e9781e442c7f98d3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "250811 - 백준 15723번.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "250811 - 백준 15723번"
+              "title": "새 탭"
             }
           }
         ]
@@ -192,8 +178,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "77319f56e6574e3b",
+  "active": "e9781e442c7f98d3",
   "lastOpenFiles": [
+    "250812 - JUnit 테스트 실행 에러 해결.md",
+    "250808 - 이벤트 브레인 스토밍 방법론.md",
+    "README.md",
+    "algorithmic-analysis-template.md",
     "250811 - 백준 15723번.md",
     "250726 - Repository (Interface).md",
     "250728 Java Style Guide.md",
@@ -201,8 +191,6 @@
     "250730 - JPA 발생 가능한 문제.md",
     "250801 - Git 이메일, 이름 변경.md",
     "250803 - AWS S3 주의사항.md",
-    "README.md",
-    "250808 - 이벤트 브레인 스토밍 방법론.md",
     "250807 - Spring Self Injection.md",
     "250806 - 싱글톤인 스프링이 다중 요청 처리하는 방법.md",
     "250804 - 무중단 배포 (1).md",
@@ -225,9 +213,7 @@
     "Projects/SSAFY-공통/Sub/AI - 가격예측",
     "Projects/SSAFY-공통/Sub/AI - SSAFY GMS",
     "Projects/Claude/Claude Desktop MCP Server.md",
-    "Projects/SSAFY-공통/Main/CLAUDE.md",
     "Projects/Claude",
-    "Projects/SSAFY-공통/Main/development-workflow.md",
     "Projects/SSAFY-공통/Sub/AI - 신선도탐지API/improving.zip",
     "Projects/SSAFY-공통/Sub/DummyData/dummyData.zip"
   ]

@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "250812 - JUnit 테스트 실행 에러 해결",
+      "path": "250812 - JUnit 테스트 실행 에러 해결.md"
+    },
+    {
+      "basename": "250808 - 이벤트 브레인 스토밍 방법론",
+      "path": "250808 - 이벤트 브레인 스토밍 방법론.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "algorithmic-analysis-template",
+      "path": "algorithmic-analysis-template.md"
+    },
+    {
       "basename": "250811 - 백준 15723번",
       "path": "250811 - 백준 15723번.md"
     },
@@ -27,14 +43,6 @@
     {
       "basename": "250803 - AWS S3 주의사항",
       "path": "250803 - AWS S3 주의사항.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
-    },
-    {
-      "basename": "250808 - 이벤트 브레인 스토밍 방법론",
-      "path": "250808 - 이벤트 브레인 스토밍 방법론.md"
     },
     {
       "basename": "250807 - Spring Self Injection",
