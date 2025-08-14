@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "250813 - Database Connection Pool 튜닝.md",
+                "file": "250814 - Windows 개행문자 실행 오류 해결.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "250813 - Database Connection Pool 튜닝"
+              "title": "250814 - Windows 개행문자 실행 오류 해결"
             }
           }
         ]
@@ -195,6 +195,7 @@
   "active": "e9781e442c7f98d3",
   "lastOpenFiles": [
     "250813 - Database Connection Pool 튜닝.md",
+    "250814 - Windows 개행문자 실행 오류 해결.md",
     "250812 - JUnit 테스트 실행 에러 해결.md",
     "250808 - 이벤트 브레인 스토밍 방법론.md",
     "README.md",
@@ -223,7 +224,6 @@
     "Study",
     "Projects/SSAFY-공통/Main/coding-conventions.md",
     "Projects/SSAFY-공통/Sub/AI - 가격예측/00. CLAUDE.md.md",
-    "Projects/SSAFY-공통/Sub/AI - SSAFY GMS/GMS 기본 사용.md",
     "Projects/Claude/gemini-with-claude.zip",
     "Projects/SSAFY-공통/Sub/AI - 가격예측",
     "Projects/SSAFY-공통/Sub/AI - SSAFY GMS",
