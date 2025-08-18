@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "250814 - Windows 개행문자 실행 오류 해결.md",
+                "file": "250813 - Database Connection Pool 튜닝.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "250814 - Windows 개행문자 실행 오류 해결"
+              "title": "250813 - Database Connection Pool 튜닝"
+            }
+          },
+          {
+            "id": "5764f7233dd1ab96",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "250818 - Anaconda base 버전 변경.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "250818 - Anaconda base 버전 변경"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -192,9 +217,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e9781e442c7f98d3",
+  "active": "5764f7233dd1ab96",
   "lastOpenFiles": [
     "250813 - Database Connection Pool 튜닝.md",
+    "250818 - Anaconda base 버전 변경.md",
     "250814 - Windows 개행문자 실행 오류 해결.md",
     "250812 - JUnit 테스트 실행 에러 해결.md",
     "250808 - 이벤트 브레인 스토밍 방법론.md",
@@ -223,7 +249,6 @@
     "Study/Java",
     "Study",
     "Projects/SSAFY-공통/Main/coding-conventions.md",
-    "Projects/SSAFY-공통/Sub/AI - 가격예측/00. CLAUDE.md.md",
     "Projects/Claude/gemini-with-claude.zip",
     "Projects/SSAFY-공통/Sub/AI - 가격예측",
     "Projects/SSAFY-공통/Sub/AI - SSAFY GMS",
