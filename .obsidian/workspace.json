@@ -4,40 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7c380b6d7567cc7b",
+        "id": "005d7660c144a61e",
         "type": "tabs",
         "children": [
           {
-            "id": "e9781e442c7f98d3",
+            "id": "780cf286b9a331c2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "250813 - Database Connection Pool 튜닝.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "250813 - Database Connection Pool 튜닝"
-            }
-          },
-          {
-            "id": "5764f7233dd1ab96",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "250818 - Anaconda base 버전 변경.md",
+                "file": "250819 - 아키텍처(기술스택) 3D 그리기.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,11 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "250818 - Anaconda base 버전 변경"
+              "title": "250819 - 아키텍처(기술스택) 3D 그리기"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -217,8 +192,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5764f7233dd1ab96",
+  "active": "780cf286b9a331c2",
   "lastOpenFiles": [
+    "250819 - 아키텍처(기술스택) 3D 그리기.md",
     "250813 - Database Connection Pool 튜닝.md",
     "250818 - Anaconda base 버전 변경.md",
     "250814 - Windows 개행문자 실행 오류 해결.md",
@@ -248,7 +224,6 @@
     "Study/Java/JPA",
     "Study/Java",
     "Study",
-    "Projects/SSAFY-공통/Main/coding-conventions.md",
     "Projects/Claude/gemini-with-claude.zip",
     "Projects/SSAFY-공통/Sub/AI - 가격예측",
     "Projects/SSAFY-공통/Sub/AI - SSAFY GMS",
