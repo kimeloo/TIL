@@ -31,5 +31,14 @@
       ],
       "key": "E"
     }
+  ],
+  "terminal:find-in-terminal": [],
+  "app:toggle-right-sidebar": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "R"
+    }
   ]
 }
