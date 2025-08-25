@@ -4,17 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "1f5681ba875d7e38",
+        "id": "0fa299398802b9e2",
         "type": "tabs",
         "children": [
           {
-            "id": "9feacfa08ba583da",
+            "id": "a7d9700231357c51",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "250825 - R-Tree 알고리즘.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "새 탭"
+              "title": "250825 - R-Tree 알고리즘"
             }
           }
         ]
@@ -219,12 +233,13 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "9feacfa08ba583da",
+  "active": "a7d9700231357c51",
   "lastOpenFiles": [
+    "250820 - 트랜잭션 격리 수준.md",
+    "250825 - R-Tree 알고리즘.md",
+    "250819 - 아키텍처(기술스택) 3D 그리기.md",
     "250822 - Java var 키워드.md",
     "250821 - Nginx CORS와 HTTPS 설정 완벽 가이드.md",
-    "250820 - 트랜잭션 격리 수준.md",
-    "250819 - 아키텍처(기술스택) 3D 그리기.md",
     "250813 - Database Connection Pool 튜닝.md",
     "250818 - Anaconda base 버전 변경.md",
     "250814 - Windows 개행문자 실행 오류 해결.md",
@@ -246,7 +261,6 @@
     "Study/Java/JPA/Repository (Interface).md",
     "Study/Java/JPA/Entity.md",
     "Projects/SSAFY-공통/Main/ai-ml-implementation.md",
-    "Projects/SSAFY-공통/Main/api-specifications.md",
     "Projects/SSAFY-공통/Main/db-schema_v03.sql",
     "Study/Java/JPA",
     "Study/Java",
