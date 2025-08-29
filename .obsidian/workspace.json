@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5d8accb8baf49ebf",
+        "id": "4598b1e13eb89105",
         "type": "tabs",
         "children": [
           {
-            "id": "28ff504dfd73855a",
+            "id": "eefcf7aba724cd72",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "250828 - Java Switch Expression 버전별 변화.md",
+                "file": "250829 - 인터페이스에 대한 프로그래밍.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "250828 - Java Switch Expression 버전별 변화"
+              "title": "250829 - 인터페이스에 대한 프로그래밍"
             }
           }
         ]
@@ -233,8 +233,9 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "28ff504dfd73855a",
+  "active": "eefcf7aba724cd72",
   "lastOpenFiles": [
+    "250829 - 인터페이스에 대한 프로그래밍.md",
     "250828 - Java Switch Expression 버전별 변화.md",
     "250827 - Spring Custom Annotation.md",
     "250826 - Spring AOP.md",
@@ -260,7 +261,6 @@
     "250807 - Spring Self Injection.md",
     "250806 - 싱글톤인 스프링이 다중 요청 처리하는 방법.md",
     "250804 - 무중단 배포 (1).md",
-    "Study/Java/JPA/JPA 설계.md",
     "Projects/SSAFY-공통/Main/db-schema_v03.sql",
     "Study/Java/JPA",
     "Study/Java",
