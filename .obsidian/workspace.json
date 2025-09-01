@@ -4,31 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "4598b1e13eb89105",
+        "id": "85036fef5f345d40",
         "type": "tabs",
         "children": [
           {
-            "id": "eefcf7aba724cd72",
+            "id": "5288c58af35413af",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "250829 - 인터페이스에 대한 프로그래밍.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "250829 - 인터페이스에 대한 프로그래밍"
+              "title": "새 탭"
             }
           }
         ]
@@ -233,12 +219,15 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "eefcf7aba724cd72",
+  "active": "5288c58af35413af",
   "lastOpenFiles": [
-    "250829 - 인터페이스에 대한 프로그래밍.md",
-    "250828 - Java Switch Expression 버전별 변화.md",
+    "250901 - Git Push 오류 해결.md",
+    "algorithmic-analysis-template.md",
     "250827 - Spring Custom Annotation.md",
+    "250829 - 인터페이스에 대한 프로그래밍.md",
+    "250724 - JPA 설계.md",
     "250826 - Spring AOP.md",
+    "250828 - Java Switch Expression 버전별 변화.md",
     "250825 - R-Tree 알고리즘.md",
     "250820 - 트랜잭션 격리 수준.md",
     "250819 - 아키텍처(기술스택) 3D 그리기.md",
@@ -250,7 +239,6 @@
     "250812 - JUnit 테스트 실행 에러 해결.md",
     "250808 - 이벤트 브레인 스토밍 방법론.md",
     "README.md",
-    "algorithmic-analysis-template.md",
     "250811 - 백준 15723번.md",
     "250726 - Repository (Interface).md",
     "250728 Java Style Guide.md",
@@ -259,8 +247,6 @@
     "250801 - Git 이메일, 이름 변경.md",
     "250803 - AWS S3 주의사항.md",
     "250807 - Spring Self Injection.md",
-    "250806 - 싱글톤인 스프링이 다중 요청 처리하는 방법.md",
-    "250804 - 무중단 배포 (1).md",
     "Projects/SSAFY-공통/Main/db-schema_v03.sql",
     "Study/Java/JPA",
     "Study/Java",

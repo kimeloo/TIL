@@ -1,20 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "250829 - 인터페이스에 대한 프로그래밍",
-      "path": "250829 - 인터페이스에 대한 프로그래밍.md"
-    },
-    {
-      "basename": "250828 - Java Switch Expression 버전별 변화",
-      "path": "250828 - Java Switch Expression 버전별 변화.md"
+      "basename": "algorithmic-analysis-template",
+      "path": "algorithmic-analysis-template.md"
     },
     {
       "basename": "250827 - Spring Custom Annotation",
       "path": "250827 - Spring Custom Annotation.md"
     },
     {
+      "basename": "250829 - 인터페이스에 대한 프로그래밍",
+      "path": "250829 - 인터페이스에 대한 프로그래밍.md"
+    },
+    {
+      "basename": "250724 - JPA 설계",
+      "path": "250724 - JPA 설계.md"
+    },
+    {
       "basename": "250826 - Spring AOP",
       "path": "250826 - Spring AOP.md"
+    },
+    {
+      "basename": "250828 - Java Switch Expression 버전별 변화",
+      "path": "250828 - Java Switch Expression 버전별 변화.md"
     },
     {
       "basename": "250825 - R-Tree 알고리즘",
@@ -59,10 +67,6 @@
     {
       "basename": "README",
       "path": "README.md"
-    },
-    {
-      "basename": "algorithmic-analysis-template",
-      "path": "algorithmic-analysis-template.md"
     },
     {
       "basename": "250811 - 백준 15723번",
