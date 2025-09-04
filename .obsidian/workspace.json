@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "250903.md",
+                "file": "250904 - Java Stream API.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "250903"
+              "title": "250904 - Java Stream API"
             }
           }
         ]
@@ -235,8 +235,9 @@
   },
   "active": "5288c58af35413af",
   "lastOpenFiles": [
+    "250903 - Spring Boot에서 Filter와 Interceptor의 차이점.md",
+    "250904 - Java Stream API.md",
     "250902 - DDD vs TDD 비교.md",
-    "250903.md",
     "250901 - Git Push 오류 해결.md",
     "algorithmic-analysis-template.md",
     "250827 - Spring Custom Annotation.md",
@@ -260,7 +261,6 @@
     "250728 Java Style Guide.md",
     "250729 - RepositorySupport (Class).md",
     "250730 - JPA 발생 가능한 문제.md",
-    "250801 - Git 이메일, 이름 변경.md",
     "Projects/SSAFY-공통/Main/db-schema_v03.sql",
     "Study/Java/JPA",
     "Study/Java",
