@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "85036fef5f345d40",
+        "id": "19b023341d2205e0",
         "type": "tabs",
         "children": [
           {
-            "id": "5288c58af35413af",
+            "id": "f63ab2615b9c2dbf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "250905.md",
+                "file": "250906 - Record 클래스 (Java 14+).md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "250905"
+              "title": "250906 - Record 클래스 (Java 14+)"
             }
           }
         ]
@@ -98,7 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 212.50247192382812
+    "width": 329.5
   },
   "right": {
     "id": "9fada517e8467938",
@@ -233,10 +233,12 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "5288c58af35413af",
+  "active": "f63ab2615b9c2dbf",
   "lastOpenFiles": [
+    "250822 - Java var 키워드.md",
+    "250906 - Record 클래스 (Java 14+).md",
+    "250905 -  패턴 매칭 (Java 14+).md",
     "250904 - Java Stream API.md",
-    "250905.md",
     "250903 - Spring Boot에서 Filter와 Interceptor의 차이점.md",
     "250902 - DDD vs TDD 비교.md",
     "250901 - Git Push 오류 해결.md",
@@ -249,7 +251,6 @@
     "250825 - R-Tree 알고리즘.md",
     "250820 - 트랜잭션 격리 수준.md",
     "250819 - 아키텍처(기술스택) 3D 그리기.md",
-    "250822 - Java var 키워드.md",
     "250821 - Nginx CORS와 HTTPS 설정 완벽 가이드.md",
     "250813 - Database Connection Pool 튜닝.md",
     "250818 - Anaconda base 버전 변경.md",
@@ -260,7 +261,6 @@
     "250811 - 백준 15723번.md",
     "250726 - Repository (Interface).md",
     "250728 Java Style Guide.md",
-    "250729 - RepositorySupport (Class).md",
     "Projects/SSAFY-공통/Main/db-schema_v03.sql",
     "Study/Java/JPA",
     "Study/Java",
