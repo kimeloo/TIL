@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "250906 - Record 클래스 (Java 14+).md",
+                "file": "250910 - NestJS 모듈, 컨트롤러, 서비스 구조.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "250906 - Record 클래스 (Java 14+)"
+              "title": "250910 - NestJS 모듈, 컨트롤러, 서비스 구조"
             }
           }
         ]
@@ -208,9 +208,19 @@
               "icon": "terminal",
               "title": "터미널: kimeloo@Kimeloo-MacBook-Air:~/Documents/Coding/etc/TIL"
             }
+          },
+          {
+            "id": "d0f96e170b09e150",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -235,9 +245,10 @@
   },
   "active": "f63ab2615b9c2dbf",
   "lastOpenFiles": [
-    "250909.md",
-    "250822 - Java var 키워드.md",
+    "250909 - Java 초기화 블록과 Static 초기화 블록.md",
+    "250910 - NestJS 모듈, 컨트롤러, 서비스 구조.md",
     "250906 - Record 클래스 (Java 14+).md",
+    "250822 - Java var 키워드.md",
     "250905 -  패턴 매칭 (Java 14+).md",
     "250904 - Java Stream API.md",
     "250903 - Spring Boot에서 Filter와 Interceptor의 차이점.md",
@@ -260,7 +271,6 @@
     "250808 - 이벤트 브레인 스토밍 방법론.md",
     "README.md",
     "250811 - 백준 15723번.md",
-    "250726 - Repository (Interface).md",
     "Projects/SSAFY-공통/Main/db-schema_v03.sql",
     "Study/Java/JPA",
     "Study/Java",

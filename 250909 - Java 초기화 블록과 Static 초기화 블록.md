@@ -1,4 +1,4 @@
-# Java 초기화 블록과 Static 초기화 블록
+
 
 ## 1. 초기화 블록 (Instance Initialization Block)
 
