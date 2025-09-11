@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "250910 - NestJS 모듈, 컨트롤러, 서비스 구조.md",
-                "mode": "preview",
+                "file": "250911 - NestJS 의존성 주입 (Dependency Injection).md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "250910 - NestJS 모듈, 컨트롤러, 서비스 구조"
+              "title": "250911 - NestJS 의존성 주입 (Dependency Injection)"
             }
           }
         ]
@@ -245,8 +245,9 @@
   },
   "active": "f63ab2615b9c2dbf",
   "lastOpenFiles": [
-    "250909 - Java 초기화 블록과 Static 초기화 블록.md",
     "250910 - NestJS 모듈, 컨트롤러, 서비스 구조.md",
+    "250911 - NestJS 의존성 주입 (Dependency Injection).md",
+    "250909 - Java 초기화 블록과 Static 초기화 블록.md",
     "250906 - Record 클래스 (Java 14+).md",
     "250822 - Java var 키워드.md",
     "250905 -  패턴 매칭 (Java 14+).md",
@@ -270,7 +271,6 @@
     "250812 - JUnit 테스트 실행 에러 해결.md",
     "250808 - 이벤트 브레인 스토밍 방법론.md",
     "README.md",
-    "250811 - 백준 15723번.md",
     "Projects/SSAFY-공통/Main/db-schema_v03.sql",
     "Study/Java/JPA",
     "Study/Java",
