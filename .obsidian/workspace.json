@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "19b023341d2205e0",
+        "id": "edf957bd7ec8797f",
         "type": "tabs",
         "children": [
           {
-            "id": "f63ab2615b9c2dbf",
+            "id": "13ca928d9dc14161",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "250911 - NestJS 의존성 주입 (Dependency Injection).md",
-                "mode": "source",
+                "file": "250913 - Facade 패턴.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "250911 - NestJS 의존성 주입 (Dependency Injection)"
+              "title": "250913 - Facade 패턴"
             }
           }
         ]
@@ -243,10 +243,14 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "f63ab2615b9c2dbf",
+  "active": "13ca928d9dc14161",
   "lastOpenFiles": [
-    "250910 - NestJS 모듈, 컨트롤러, 서비스 구조.md",
+    "250913 - Facade 패턴.md",
+    "250807 - Spring Self Injection.md",
+    "250912 - React 기본 Hooks 정리.md",
     "250911 - NestJS 의존성 주입 (Dependency Injection).md",
+    "250912",
+    "250910 - NestJS 모듈, 컨트롤러, 서비스 구조.md",
     "250909 - Java 초기화 블록과 Static 초기화 블록.md",
     "250906 - Record 클래스 (Java 14+).md",
     "250822 - Java var 키워드.md",
@@ -268,9 +272,6 @@
     "250813 - Database Connection Pool 튜닝.md",
     "250818 - Anaconda base 버전 변경.md",
     "250814 - Windows 개행문자 실행 오류 해결.md",
-    "250812 - JUnit 테스트 실행 에러 해결.md",
-    "250808 - 이벤트 브레인 스토밍 방법론.md",
-    "README.md",
     "Projects/SSAFY-공통/Main/db-schema_v03.sql",
     "Study/Java/JPA",
     "Study/Java",
@@ -279,7 +280,6 @@
     "Projects/SSAFY-공통/Sub/AI - 가격예측",
     "Projects/SSAFY-공통/Sub/AI - SSAFY GMS",
     "Projects/Claude",
-    "Projects/SSAFY-공통/Sub/AI - 신선도탐지API/improving.zip",
-    "Projects/SSAFY-공통/Sub/DummyData/dummyData.zip"
+    "Projects/SSAFY-공통/Sub/AI - 신선도탐지API/improving.zip"
   ]
 }
