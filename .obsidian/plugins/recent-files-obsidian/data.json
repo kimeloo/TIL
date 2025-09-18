@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "250918 - NestJS와 JavaScript의 Event Emit과 수신",
+      "path": "250918 - NestJS와 JavaScript의 Event Emit과 수신.md"
+    },
+    {
       "basename": "250917 - NestJS Custom Decorator 정리",
       "path": "250917 - NestJS Custom Decorator 정리.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Claude Desktop MCP Server",
       "path": "Projects/Claude/Claude Desktop MCP Server.md"
-    },
-    {
-      "basename": "CLAUDE",
-      "path": "Projects/SSAFY-공통/Main/CLAUDE.md"
     }
   ],
   "omittedPaths": [],
