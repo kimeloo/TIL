@@ -11,10 +11,24 @@
             "id": "7cf1d24fe3ac5d5c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "250922 - React xterm과 NestJS node-pty 연결.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "새 탭"
+              "title": "250922 - React xterm과 NestJS node-pty 연결"
             }
           }
         ]
@@ -231,6 +245,8 @@
   },
   "active": "7cf1d24fe3ac5d5c",
   "lastOpenFiles": [
+    "250919 - SSE와 WebSocket 비교.md",
+    "250922 - React xterm과 NestJS node-pty 연결.md",
     "250918 - NestJS와 JavaScript의 Event Emit과 수신.md",
     "250917 - NestJS Custom Decorator 정리.md",
     "250912 - React 기본 Hooks 정리.md",
@@ -256,8 +272,6 @@
     "250828 - Java Switch Expression 버전별 변화.md",
     "250825 - R-Tree 알고리즘.md",
     "250820 - 트랜잭션 격리 수준.md",
-    "250819 - 아키텍처(기술스택) 3D 그리기.md",
-    "250821 - Nginx CORS와 HTTPS 설정 완벽 가이드.md",
     "Projects/SSAFY-공통/Main/db-schema_v03.sql",
     "Study/Java/JPA",
     "Study/Java",

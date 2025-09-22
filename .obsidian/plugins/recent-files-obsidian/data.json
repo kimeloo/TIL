@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "250922 - React xterm과 NestJS node-pty 연결",
+      "path": "250922 - React xterm과 NestJS node-pty 연결.md"
+    },
+    {
+      "basename": "250919 - SSE와 WebSocket 비교",
+      "path": "250919 - SSE와 WebSocket 비교.md"
+    },
+    {
       "basename": "250918 - NestJS와 JavaScript의 Event Emit과 수신",
       "path": "250918 - NestJS와 JavaScript의 Event Emit과 수신.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "00. CLAUDE.md",
       "path": "Projects/SSAFY-공통/Sub/AI - 가격예측/00. CLAUDE.md.md"
-    },
-    {
-      "basename": "GMS 기본 사용",
-      "path": "Projects/SSAFY-공통/Sub/AI - SSAFY GMS/GMS 기본 사용.md"
-    },
-    {
-      "basename": "Claude Desktop MCP Server",
-      "path": "Projects/Claude/Claude Desktop MCP Server.md"
     }
   ],
   "omittedPaths": [],
