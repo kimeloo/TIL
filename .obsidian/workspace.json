@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "250922 - React xterm과 NestJS node-pty 연결.md",
+                "file": "250923 - Redis를 메시지 큐로 사용하는 방법.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "250922 - React xterm과 NestJS node-pty 연결"
+              "title": "250923 - Redis를 메시지 큐로 사용하는 방법"
             }
           }
         ]
@@ -245,8 +245,9 @@
   },
   "active": "7cf1d24fe3ac5d5c",
   "lastOpenFiles": [
-    "250919 - SSE와 WebSocket 비교.md",
     "250922 - React xterm과 NestJS node-pty 연결.md",
+    "250923 - Redis를 메시지 큐로 사용하는 방법.md",
+    "250919 - SSE와 WebSocket 비교.md",
     "250918 - NestJS와 JavaScript의 Event Emit과 수신.md",
     "250917 - NestJS Custom Decorator 정리.md",
     "250912 - React 기본 Hooks 정리.md",
@@ -271,7 +272,6 @@
     "250826 - Spring AOP.md",
     "250828 - Java Switch Expression 버전별 변화.md",
     "250825 - R-Tree 알고리즘.md",
-    "250820 - 트랜잭션 격리 수준.md",
     "Projects/SSAFY-공통/Main/db-schema_v03.sql",
     "Study/Java/JPA",
     "Study/Java",

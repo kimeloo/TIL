@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "250923 - Redis를 메시지 큐로 사용하는 방법",
+      "path": "250923 - Redis를 메시지 큐로 사용하는 방법.md"
+    },
+    {
       "basename": "250922 - React xterm과 NestJS node-pty 연결",
       "path": "250922 - React xterm과 NestJS node-pty 연결.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "발생 가능한 문제",
       "path": "Study/Java/JPA/발생 가능한 문제.md"
-    },
-    {
-      "basename": "00. CLAUDE.md",
-      "path": "Projects/SSAFY-공통/Sub/AI - 가격예측/00. CLAUDE.md.md"
     }
   ],
   "omittedPaths": [],
