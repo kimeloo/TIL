@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "250924 - Java fun interface와 var 키워드",
+      "path": "250924 - Java fun interface와 var 키워드.md"
+    },
+    {
       "basename": "250923 - Redis를 메시지 큐로 사용하는 방법",
       "path": "250923 - Redis를 메시지 큐로 사용하는 방법.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "api-specifications",
       "path": "Projects/SSAFY-공통/Main/api-specifications.md"
-    },
-    {
-      "basename": "발생 가능한 문제",
-      "path": "Study/Java/JPA/발생 가능한 문제.md"
     }
   ],
   "omittedPaths": [],
