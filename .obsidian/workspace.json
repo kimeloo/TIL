@@ -11,10 +11,24 @@
             "id": "5666785a28170952",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "250925 - Spring Boot + JPA MVC 실행 흐름.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "새 탭"
+              "title": "250925 - Spring Boot + JPA MVC 실행 흐름"
             }
           }
         ]
@@ -231,6 +245,7 @@
   },
   "active": "5666785a28170952",
   "lastOpenFiles": [
+    "250925 - Spring Boot + JPA MVC 실행 흐름.md",
     "250924 - Java fun interface와 var 키워드.md",
     "250923 - Redis를 메시지 큐로 사용하는 방법.md",
     "250922 - React xterm과 NestJS node-pty 연결.md",
@@ -257,7 +272,6 @@
     "250829 - 인터페이스에 대한 프로그래밍.md",
     "250724 - JPA 설계.md",
     "250826 - Spring AOP.md",
-    "250828 - Java Switch Expression 버전별 변화.md",
     "Projects/SSAFY-공통/Main/db-schema_v03.sql",
     "Study/Java/JPA",
     "Study/Java",

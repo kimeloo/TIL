@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "250925 - Spring Boot + JPA MVC 실행 흐름",
+      "path": "250925 - Spring Boot + JPA MVC 실행 흐름.md"
+    },
+    {
       "basename": "250924 - Java fun interface와 var 키워드",
       "path": "250924 - Java fun interface와 var 키워드.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "ai-ml-implementation",
       "path": "Projects/SSAFY-공통/Main/ai-ml-implementation.md"
-    },
-    {
-      "basename": "api-specifications",
-      "path": "Projects/SSAFY-공통/Main/api-specifications.md"
     }
   ],
   "omittedPaths": [],
