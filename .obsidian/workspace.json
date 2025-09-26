@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "250925 - Spring Boot + JPA MVC 실행 흐름.md",
-                "mode": "preview",
+                "file": "250926 - 빌더 패턴 (Builder Pattern).md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "250925 - Spring Boot + JPA MVC 실행 흐름"
+              "title": "250926 - 빌더 패턴 (Builder Pattern)"
             }
           }
         ]
@@ -246,6 +246,7 @@
   "active": "5666785a28170952",
   "lastOpenFiles": [
     "250925 - Spring Boot + JPA MVC 실행 흐름.md",
+    "250926 - 빌더 패턴 (Builder Pattern).md",
     "250924 - Java fun interface와 var 키워드.md",
     "250923 - Redis를 메시지 큐로 사용하는 방법.md",
     "250922 - React xterm과 NestJS node-pty 연결.md",
@@ -271,7 +272,6 @@
     "250827 - Spring Custom Annotation.md",
     "250829 - 인터페이스에 대한 프로그래밍.md",
     "250724 - JPA 설계.md",
-    "250826 - Spring AOP.md",
     "Projects/SSAFY-공통/Main/db-schema_v03.sql",
     "Study/Java/JPA",
     "Study/Java",

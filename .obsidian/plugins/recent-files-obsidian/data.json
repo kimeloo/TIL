@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "250926 - 빌더 패턴 (Builder Pattern)",
+      "path": "250926 - 빌더 패턴 (Builder Pattern).md"
+    },
+    {
       "basename": "250925 - Spring Boot + JPA MVC 실행 흐름",
       "path": "250925 - Spring Boot + JPA MVC 실행 흐름.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Entity",
       "path": "Study/Java/JPA/Entity.md"
-    },
-    {
-      "basename": "ai-ml-implementation",
-      "path": "Projects/SSAFY-공통/Main/ai-ml-implementation.md"
     }
   ],
   "omittedPaths": [],
