@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "250930 - Decorator 디자인 패턴.md",
+                "file": "250930 - Chain of Responsibility 패턴.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "250930 - Decorator 디자인 패턴"
+              "title": "250930 - Chain of Responsibility 패턴"
             }
           }
         ]
@@ -245,6 +245,7 @@
   },
   "active": "5b5f9793b48576e6",
   "lastOpenFiles": [
+    "250930 - Chain of Responsibility 패턴.md",
     "250930 - Decorator 디자인 패턴.md",
     "250917 - NestJS Custom Decorator 정리.md",
     "250926 - 빌더 패턴 (Builder Pattern).md",
@@ -271,7 +272,6 @@
     "250901 - Git Push 오류 해결.md",
     "algorithmic-analysis-template.md",
     "250827 - Spring Custom Annotation.md",
-    "250829 - 인터페이스에 대한 프로그래밍.md",
     "Projects/SSAFY-공통/Main/db-schema_v03.sql",
     "Study/Java/JPA",
     "Study/Java",
