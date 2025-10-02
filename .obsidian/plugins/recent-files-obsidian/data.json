@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "251002 - 옵저버 패턴 (Observer Pattern)",
+      "path": "251002 - 옵저버 패턴 (Observer Pattern).md"
+    },
+    {
       "basename": "251001 - Bash Shell Script 기본 문법",
       "path": "251001 - Bash Shell Script 기본 문법.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "250804 - 무중단 배포 (1)",
       "path": "250804 - 무중단 배포 (1).md"
-    },
-    {
-      "basename": "RepositorySupport (Class)",
-      "path": "Study/Java/JPA/RepositorySupport (Class).md"
     }
   ],
   "omittedPaths": [],
